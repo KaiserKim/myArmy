@@ -128,3 +128,4 @@ var build = function() {
 build();
 squad.soldiers['captain'].pop().fight(squad.soldiers['general'].pop());
 console.log(squad.soldiers);
+# myArmy
